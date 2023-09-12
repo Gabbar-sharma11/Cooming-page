@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+main{
+    text-align: center;
+    margin: 23px;
+
+} 
+.sectin{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+.firstpage{
+    text-align: center; 
+    padding: 20px;  
+    margin: 10px;
+
+}
+img{
+    width: 100%;
+    height: 200px;
+}
+.title h2{
+    font-size: 28px;
+    padding: 15px;
+}
+.countdown{
+    display: flex;
+    justify-content: center;
+    gap:10px
+}
+.timer{
+    text-align: center;
+    
+}
+.timer span{
+    font-weight: bold;
+    font-size: 1.4rem;
+    color: #f21e1e;
+}
+
+
+
+
